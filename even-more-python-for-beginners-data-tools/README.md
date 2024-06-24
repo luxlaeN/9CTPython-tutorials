@@ -1,6 +1,6 @@
 # Even more Python for beginners - data tools
 
-## Overview of thing
+## Overview
 
 Data science and machine learning among the most popular fields today, in which Python is one of the most popular languages. As you might expect, there are several libraries and tools available to you. As you begin your journey into this field, it will help to be familiar with the most common frameworks and techniques. This is what we're here to help you with!
 
